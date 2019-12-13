@@ -163,3 +163,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/order-online-system.iml
+.idea/workspace.xml
