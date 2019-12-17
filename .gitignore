@@ -149,3 +149,4 @@ eureka-server/src/test/
 eureka-server/target/generated-sources/
 order/src/test/
 order/target/
+*.class
